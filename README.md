@@ -5,3 +5,7 @@ The HC-SRO4 is an Ultrasonic ranging module which is said to provide reliable re
 If some ultrasonic waves are successful in reflecting on the intented object , the time between the sending the signal and reciving the signal can be calculated.
 Using ( Velocity of Ultrasonic waves ) * ( time taken by ultrasonic waves to be reflected back / 2 ) = Range of the object.
 All this information is available in the HC-SR04 data sheet : https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
+
+Below is the wiring of the HC-SRO4 for Aduino:
+
+
