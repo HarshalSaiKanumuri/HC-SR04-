@@ -8,4 +8,5 @@ All this information is available in the HC-SR04 data sheet : https://cdn.sparkf
 
 Below is the wiring of the HC-SRO4 for Aduino:
 
+![image](https://user-images.githubusercontent.com/121031084/209546791-98dfa85d-782b-40a6-94f8-6973a59b86f0.png)
 
