@@ -10,3 +10,6 @@ Below is the wiring of the HC-SRO4 for Aduino:
 
 ![image](https://user-images.githubusercontent.com/121031084/209546791-98dfa85d-782b-40a6-94f8-6973a59b86f0.png)
 
+Below is the wiring of the HC-SRO4 for ESP-32:
+( Important note : The echo pin on the HC-SR04 sends a 5V signal to GPIO pin used , this will damage the pin. Hence this voltage is divided so 3.3 V is sent ) 
+
